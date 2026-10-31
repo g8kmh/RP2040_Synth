@@ -26,6 +26,9 @@
   CHIP_ENTRY(ADF4351,  adf4351Chip)  \
   CHIP_ENTRY(LMX2595,  lmx2595Chip)  \
   CHIP_ENTRY(CMT2119A, cmt2119aChip) \
-  CHIP_ENTRY(ADF5355,  adf5355Chip)
+  CHIP_ENTRY(ADF5355,  adf5355Chip)  \
+  CHIP_ENTRY(LMX2820,  lmx2820Chip)  \
+  CHIP_ENTRY(MAX2817,  max2871Chip)  \
+  
 
 #endif
